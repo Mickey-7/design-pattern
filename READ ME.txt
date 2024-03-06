@@ -1,0 +1,20 @@
+reference : https://www.youtube.com/watch?v=mE3qTp1TEbg&list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc
+
+Patterns will not generate ready code for us
+Patterns provide a template to follow
+
+Creational Pattern
+    - provide more flexibility in how objects are actually created
+
+Structural Pattern
+    - deal with how inheritance and composition can
+      be used to provide extra functionality
+
+Behavioral Pattern
+    - are about communication and assignment
+      of responsibilities between objects
+
+UML reference : https://app.diagrams.net/
+    UML Diagram Note :
+        - if class to interface and not dotted -> then its return type
+        - if class to class and dotted -> then its return type
