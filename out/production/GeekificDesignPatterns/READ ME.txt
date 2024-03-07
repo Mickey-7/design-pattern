@@ -13,3 +13,8 @@ Structural Pattern
 Behavioral Pattern
     - are about communication and assignment
       of responsibilities between objects
+
+UML reference : https://app.diagrams.net/
+    UML Diagram Note :
+        - if class to interface and not dotted -> then its return type
+        - if class to class and dotted -> then its return type
